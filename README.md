@@ -16,7 +16,7 @@ Hi! I'm a CSE student building my skills in programming, Data Structures and Alg
 My C++ exercises and programming practice.
 
 - [C++ Practice README](cpp-practice/README.md)
-- [My First C++ Program](cpp-practice/first-program.cpp)
+- [My First C++ Program](cpp-practice/my-first-program.cpp)
 
 ### Cybersecurity
 My notes and learning progress in cybersecurity.
