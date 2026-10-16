@@ -1,2 +1,2 @@
 # first-repo
-My first repository on GitHub!
+My 90-day journey learning C++, DSA, Linux, networking and cybersecurity.
