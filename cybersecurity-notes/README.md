@@ -61,3 +61,37 @@ I am learning how cybersecurity professionals use search tools, threat-analysis 
 
 Continue learning cybersecurity fundamentals and practise the concepts in authorized training environments.
 
+## TryHackMe Progress
+
+### 1. Search Skills — Completed
+
+Topics explored:
+
+- **Shodan:** Discovering internet-connected devices and exposed services.
+- **VirusTotal:** Investigating potentially malicious files, URLs, domains, and IP addresses.
+- **CVE:** Learning about publicly documented vulnerabilities.
+- **Technical documentation:** Using manuals to understand tools and commands.
+- **GitHub:** Organizing and sharing technical work.
+
+### 2. Web Application Basics — Completed
+
+Topics studied:
+
+- **Web application overview:** Understanding the basic components of web applications.
+- **URL (Uniform Resource Locator):** Understanding how web resources are addressed.
+- **HTTP messages:** Learning how browsers and web servers communicate.
+- **HTTP request methods:** Understanding the purpose of request methods.
+- **Request headers and body:** Learning how requests carry metadata and data.
+- **HTTP response status codes:** Understanding how servers report request outcomes.
+- **Response headers and body:** Learning how servers return information.
+- **Security headers:** Exploring HTTP headers that help protect web applications.
+- **Practical HTTP requests:** Practising how HTTP requests work.
+
+### Key Learning
+
+I learned the fundamentals of web application communication, including URLs, HTTP requests and responses, status codes, and security headers.
+
+### Next Goal
+
+Continue learning web technologies and cybersecurity fundamentals, and practise these concepts in authorized training environments.
+
