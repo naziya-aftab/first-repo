@@ -95,3 +95,20 @@ I learned the fundamentals of web application communication, including URLs, HTT
 
 Continue learning web technologies and cybersecurity fundamentals, and practise these concepts in authorized training environments.
 
+### 3. Linux Fundamentals (Pt1) — Completed
+
+Topics studied:
+
+- **Talking to Linux:** Learning how to interact with Linux through the terminal.
+- **Finding your way around:** Navigating directories and understanding file paths.
+- **Let the machine do the searching:** Using commands to search for files and information.
+- **Shell operators:** Combining commands to perform tasks more efficiently.
+
+### Key Learning
+
+I practised using Linux terminal commands to navigate directories, locate files, and combine commands using shell operators.
+
+### Next Goal
+
+Continue learning Linux commands, file management, permissions, and other operating system fundamentals.
+
