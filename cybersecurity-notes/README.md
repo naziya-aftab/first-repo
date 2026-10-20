@@ -112,3 +112,38 @@ I practised using Linux terminal commands to navigate directories, locate files,
 
 Continue learning Linux commands, file management, permissions, and other operating system fundamentals.
 
+### 4. Junior Security Analyst Intro — Completed
+
+Topics studied:
+
+- **Junior Security Analyst Journey:** Introduction to the responsibilities of a junior security analyst.
+- **Security Operations Center (SOC):** Understanding how security teams monitor systems and investigate potential threats.
+- **A Day in the Life of a Security Analyst:** Exploring the typical activities and responsibilities of a security analyst.
+
+### Key Learning
+
+I learned about the role of a junior security analyst and the purpose of a Security Operations Center (SOC) in monitoring security events, investigating alerts, and responding to potential incidents.
+
+### Next Goal
+
+Continue learning security operations, alert investigation, and incident response fundamentals through authorized training labs.
+
+### 5. SOC Fundamentals — Completed
+
+Topics studied:
+
+- **Introduction to SOC:** Understanding the role of a Security Operations Center in monitoring and protecting an organization's systems.
+- **Purpose and Components:** Learning why a SOC exists and the main elements that help it operate.
+- **People:** Exploring the roles of security professionals who work in a SOC.
+- **Process:** Understanding the importance of structured procedures for investigating and responding to security events.
+- **Technology:** Learning how security tools support monitoring, detection, and investigation.
+- **Practical Exercise:** Applying SOC concepts in a training environment.
+
+### Key Learning
+
+I learned that effective security operations depend on people, processes, and technology working together to detect, investigate, and respond to potential security incidents.
+
+### Next Goal
+
+Strengthen my understanding of security alerts, incident investigation, and the tools used by SOC analysts through hands-on practice.
+
