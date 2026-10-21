@@ -147,3 +147,20 @@ I learned that effective security operations depend on people, processes, and te
 
 Strengthen my understanding of security alerts, incident investigation, and the tools used by SOC analysts through hands-on practice.
 
+### 6. SOC Role in Blue Team — Completed
+
+Topics studied:
+
+- **Security Hierarchy:** Understanding the hierarchy of security roles and responsibilities.
+- **Meet the Blue Team:** Learning about defensive cybersecurity roles and how teams help protect systems and networks.
+- **Advancing a SOC Career:** Exploring career progression within a Security Operations Center, starting from a Level 1 (L1) analyst.
+- **Final Challenge:** Reviewing and applying the concepts covered in the room.
+
+### Key Learning
+
+I learned about defensive cybersecurity roles, the hierarchy of security responsibilities, and career progression within a Security Operations Center (SOC).
+
+### Career Goal
+
+Continue developing my cybersecurity fundamentals, investigation skills, and practical experience through hands-on training labs.
+
